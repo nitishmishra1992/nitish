@@ -3,7 +3,7 @@
 /**
  * @file
  * The PHP page that serves all page requests on a Drupal installation.
- *
+ * testing ping ping ping ping
  * The routines here dispatch control to the appropriate handler, which then
  * prints the appropriate page.
  *
